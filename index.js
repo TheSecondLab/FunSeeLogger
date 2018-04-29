@@ -1,5 +1,5 @@
-const FunSeeLogger = require('./lib/Log');
-const FunSeeLoggerMid = require('./lib/LogMid');
+const FunSeeLogger = require('./dist/Log');
+const FunSeeLoggerMid = require('./dist/LogMid');
 
 module.exports = {
   FunSeeLogger,
