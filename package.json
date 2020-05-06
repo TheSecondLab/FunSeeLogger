@@ -1,6 +1,6 @@
 {
   "name": "funsee-logger",
-  "version": "1.0.8",
+  "version": "1.0.8.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/TheSecondLab/FunSeeLogger#readme",
   "dependencies": {
-    "winston": "^2.4.1",
-    "winston-daily-rotate-file": "^4.4.2"
+    "winston": "^2.4.1"
   },
   "devDependencies": {
     "babel": "^6.23.0",
